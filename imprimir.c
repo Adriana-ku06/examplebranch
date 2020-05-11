@@ -14,7 +14,8 @@ int main()
     scanf( "%d", &number2 );
 
     printf( "\n   La suma es: %d", number1 + number2 );
-    printf( "\n\n   La multiplicaci%cn es: %d", 162, number1 * number2 );
+    printf( "\n\n   La multiplicaci%cn es: %d\n", 162, number1 * number2 );
+    printf("Hola mundo\n");
 
     getch(); /* Pausa */
 
