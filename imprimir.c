@@ -1,5 +1,5 @@
 /* Programa: Suma y multiplicación de dos números (Solución 2) */
-
+// este programa usa scanf para conseguir datos 
 #include <conio.h>
 #include <stdio.h>
 
