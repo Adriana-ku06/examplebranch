@@ -15,7 +15,7 @@ int main()
 
     printf( "\n   La suma es: %d", number1 + number2 );
     printf( "\n\n   La multiplicaci%cn es: %d", 162, number1 * number2 );
-
+    printf("el doble producto es: %d", 2(number1 * number2));
     getch(); /* Pausa */
 
     return 0;
